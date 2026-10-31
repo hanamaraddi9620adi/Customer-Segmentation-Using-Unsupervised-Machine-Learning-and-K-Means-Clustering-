@@ -1,0 +1,35 @@
+{
+  "rows": 440,
+  "features": [
+    "Fresh",
+    "Milk",
+    "Grocery",
+    "Frozen",
+    "Detergents_Paper",
+    "Delicassen"
+  ],
+  "selected_algorithm": "KMeans",
+  "k": 2,
+  "silhouette": 0.2903284869973543,
+  "davies_bouldin": 1.351501586224928,
+  "cluster_sizes": {
+    "0": 252,
+    "1": 188
+  },
+  "rows_flagged_iqr": 108,
+  "rows_removed": 0,
+  "subsample_ari_mean": 0.9648542859084799,
+  "subsample_ari_min": 0.8259479669810239,
+  "subsample_ari_max": 1.0,
+  "raw_vs_log_ari": 0.09360205291579908,
+  "pca_variance": 0.7127266893428758,
+  "source_sha256": "c3d018c643565b85cee733c4a2ac76dd76e080e857cb23f0ccfcc2e15a6c17ef",
+  "versions": {
+    "python": "3.14.5",
+    "pandas": "2.3.3",
+    "numpy": "2.4.6",
+    "scikit-learn": "1.9.0",
+    "matplotlib": "3.11.0",
+    "joblib": "1.5.3"
+  }
+}

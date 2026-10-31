@@ -1,0 +1,5 @@
+wholesale_segmentation/
+.git/
+*.zip
+*.csv
+__pycache__/
